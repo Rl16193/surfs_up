@@ -2,7 +2,7 @@
 
 ## Overview
 
-Create temperature reports to help determine if the surf shop can operate throught the year, leading to a sustainable business.
+Create temperature reports to help determine if the surf shop can operate throughtout the year, leading to a sustainable business.
 
 ## Results
 
